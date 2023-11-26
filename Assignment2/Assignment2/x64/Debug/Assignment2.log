@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Assignment2.cpp
+E:\ObjectARX\Assignment2\Assignment2\Assignment2.cpp(50,95): error C2653: 'CAssignment1App': is not a class or namespace name
+E:\ObjectARX\Assignment2\Assignment2\Assignment2.cpp(50,112): error C2065: 'AddLine': undeclared identifier
